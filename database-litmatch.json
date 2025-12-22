@@ -1,12 +1,7 @@
 [
   {
-    "Device Id": "eaa831c635e59065", 
-    "username": "dexsz",
-    "password": "dexsz",
-  },
-  {
-    "Device Id": "PASTEDEVICEID", 
-    "username": "PASTEUSERNAME",
-    "password": "PASTEPASSWORD",
+    "id": "eaa831c635e59065",
+    "key": "eaa831c635e59065",
+    "allowOffline": true
   }
 ]
