@@ -1,68 +1,14 @@
 [
   {
-    "id": "bd99f80e2ca08c17",
-    "key": "dexsz",
-    "expiresAt": "2026-05-30",
-    "allowOffline": true
+    "Device Id": "eaa831c635e59065", 
+    "username": "dexsz",
+    "password": "dexsz",
   },
+  
+  
   {
-    "id": "94440e628d2b1290",
-    "key": "shin",
-    "expiresAt": "2029-05-30",
-    "allowOffline": true
-  },
-  {
-    "id": "4a1c49c5c25bb978",
-    "key": "nal",
-    "expiresAt": "2029-05-30",
-    "allowOffline": true
-  },
-  {
-    "id": "10ece8380c641d21",
-    "key": "nal",
-    "expiresAt": "2029-05-30",
-    "allowOffline": true
-  },
-  {
-    "id": "abc123def456ghi789",
-    "key": "key1",
-    "expiresAt": "2025-05-30",
-    "allowOffline": true
-  },
-  {
-    "id": "abc123def456ghi789",
-    "key": "key1",
-    "expiresAt": "2025-05-30",
-    "allowOffline": true
-  },
-  {
-    "id": "abc123def456ghi789",
-    "key": "key1",
-    "expiresAt": "2025-05-30",
-    "allowOffline": true
-  },
-  {
-    "id": "abc123def456ghi789",
-    "key": "key1",
-    "expiresAt": "2025-05-30",
-    "allowOffline": true
-  },
-  {
-    "id": "abc123def456ghi789",
-    "key": "key1",
-    "expiresAt": "2025-05-30",
-    "allowOffline": true
-  },
-  {
-    "id": "abc123def456ghi789",
-    "key": "key1",
-    "expiresAt": "2025-05-30",
-    "allowOffline": true
-  },
-  {
-    "id": "ali456",
-    "key": "key2",
-    "expiresAt": "2025-06-15",
-    "allowOffline": false
+    "Device Id": "PASTEDEVICEID", 
+    "username": "PASTEUSERNAME",
+    "password": "PASTEPASSWORD",
   }
 ]
