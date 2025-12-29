@@ -4,5 +4,13 @@
     "key": "dexsz",
     "expiresAt": "2325-05-30",
     "allowOffline": true
+  },
+  
+  {
+    "id": "679551e0f6df871a",
+    "key": "sinkontol",
+    "expiresAt": "2325-05-30",
+    "allowOffline": true
   }
+
 ]
