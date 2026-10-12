@@ -1,32 +1,18 @@
 {
-"status": "active",
-"admin_url": "https://t.me/DPMods",
-"time_api": "https://timeapi.io/api/Time/current/zone?timeZone=Asia/Kolkata",
-"time_api_backup": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
-"texts": {
-"login_btn": "LOGIN",
-"admin_btn": "ADMIN",
-"update_btn": "UPDATE NOW",
-"banned_msg": "DEVICE BANNED\nContact Admin",
-"expired_msg": "Subscription Expired!\nRenew Now",
-"internet_error": "Connection Failed\nCheck Internet",
-"update_msg": "New Update Available"
-},
-"banned_devices": ["Banned_device_DPMods"],
-"users": [
-{
-"username": "admin",
-"password": "123",
-"expiry_date": "30/12/2030",
-"allowed_devices": ["ALL"],
-"success_toast": "Welcome Developer!"
-},
-{
-"username": "user",
-"password": "user",
-"expiry_date": "03/12/2025",
-"allowed_devices": ["3ba4a93f018dc799"],
-"success_toast": "Login Successful"
-}
-]
+    "omes": {
+        "createdBy": "Owner",
+        "expires": "2027-06-18T20:51:13Z",
+        "maxDevices": 100
+    },
+    "0101010101": {
+        "createdBy": "Owner",
+        "expires": "2027-05-18T20:51:13Z",
+        "maxDevices": 1
+    },
+    {
+    "JAYY-PREMIUM": {
+        "createdBy": "Owner",
+        "expires": "2026-06-18T20:51:13Z",
+        "maxDevices": 1
+    },
 }
